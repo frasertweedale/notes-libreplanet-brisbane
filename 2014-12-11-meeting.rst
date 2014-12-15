@@ -1,0 +1,218 @@
+..
+  Copyright 2014  Fraser Tweedale
+
+  This work is licensed under the Creative Commons Attribution 4.0
+  International License. To view a copy of this license, visit
+  http://creativecommons.org/licenses/by/4.0/.
+
+LibrePlanet Brisbane: Thursday 11 December 2014
+===============================================
+
+News
+----
+
+Local news:
+
+* Linux Australia council elections
+
+  * LA are stewards of linux.conf.au, pyconau, PHP conf au.
+
+  * Nominations are needed and close on Wednesday 17th December.
+
+  * http://lists.linux.org.au/pipermail/announce/2014-December/000192.html
+
+* OSDClub AGM
+
+  * AGM was held on November 5th (during OSDC)
+
+  * Subject to special resolution, OSDClub will wind up and donate
+    assets to LA.
+
+  * Minutes: https://securityprotected.net/lists/archives/announce.osdc.com.au/2014-November/000070.html
+
+
+Initiatives:
+
+* *Let's Encrypt* initiative
+
+  * CA initiative and new "ACME" protocol for domain validation and certificate issuance
+
+  * Partnership of Mozilla, Akamai (CDN), Cisco, EFF, IdenTrust
+
+  * Launching in 2015; developer preview now.
+
+  * https://letsencrypt.org/
+
+  * EFF announcement: https://www.eff.org/deeplinks/2014/11/certificate-authority-encrypt-entire-web
+
+  * https://github.com/letsencrypt
+
+* copyleft.org
+
+  * Ongoing public project of Software Freedom Conservancy and FSF
+
+  * Comprehensive tutorial and guide to copyleft and GPL
+
+  * http://copyleft.org/
+
+  * Announcement: http://www.fsf.org/news/software-freedom-conservancy-and-free-software-foundation-announce-copyleft.org
+
+* Matthew Garrett joins FSF board
+
+  * http://www.fsf.org/news/matthew-garrett-joins-free-software-foundation-board-of-directors
+
+* Librem 15: crowd-funded libre laptop
+
+  * A Free and Open Source Laptop That Respects Your Essential Freedoms
+
+  * Crowdfunding campaign
+
+  * High specs; looks pretty nice
+
+  * NVIDIA GPU (Nouveau driver)
+
+  * https://www.crowdsupply.com/purism/librem-laptop
+
+  * Some non-free BIOS and firmware blobs
+
+  * See also *Novena*, Bunnie's crowd-funded libre laptop
+
+* FSF commences review of High Priority Projects list
+
+  * Announcement: http://www.fsf.org/news/fsf-commences-review-of-high-priority-free-software-projects-list-your-input-is-needed
+
+  * We need your input! Send your suggestions of projects to hpp-feedback@gnu.org
+
+  * Will publish a substantially revised list and an analysis before LibrePlanet 2015
+
+  * Current list: https://www.fsf.org/campaigns/priority-projects/
+
+
+Events:
+
+* SeaGL conference videos
+
+  * Seattle GNU/Linux conference
+
+  * Videos at http://www.youtube.com/channel/UCHm0HuuKPWBglv-qPC8kkUw
+
+  * Karen Sandler keynote, *Freedom in My Heart and Everywhere: Lessons from a Cyborg Lawyer*
+
+    * Karen is co-host of the *Free as in Freedom* podcast, with
+      Bradley Kuhn.  http://faif.us/
+
+  * Lots of topics: security, programming, ops, civic/humanitarian projects and more.
+
+* GIS Day 2014
+
+  * Geographic Information Systems (GIS) event held at
+    Queensland University of Technology on 19th November
+
+  * Some presentations involved free software:
+
+    * QGIS: https://qgis.org/en/site/
+
+    * FOSS4G: https://github.com/matthew-shaw/FOSS4G
+
+    * OSGeo Foundation: http://www.osgeo.org/
+
+  * Program and slides: http://www.gisday.com.au/event/program/
+    (links to slides are among the speaker bios)
+
+* GovHack 2015 announced
+
+  * Annual open data hackfest weekend; national event involving all levels of govt
+
+  * New Zealand is on board for 2015!
+
+  * Competition; prizes!
+
+  * Save the dates: July 3-5 2015
+
+  * More info: http://www.govhack.org/
+
+
+Releases:
+
+* GnuPG 2.1 released
+
+  * Free OpenPGP implementation for email privacy
+
+  * Enhancements:
+
+    * elliptic curve (ECC) support
+
+    * improved key generation dialog
+
+    * revocation certs created by default
+
+    * gpg-agent now used for all private key operations
+
+    * more efficient key database
+
+  * Full details: https://gnupg.org/faq/whats-new-in-2.1.html
+
+* GNOME 3 now on FreeBSD
+
+  * GNOME 3.14 has arrived in ports tree and official pkg(8) repos.
+
+  * https://www.freshports.org/x11/gnome3/
+
+* gNewSense 4 alpha 1 released
+
+  * Fully free OS based on Debian 7.0 "Wheezy"
+
+  * Announcement: https://lists.nongnu.org/archive/html/gnewsense-dev/2014-12/msg00000.html
+
+* Trisquel 7 released
+
+  * Fully free GNU+Linux distro based on Ubuntu
+
+  * Announcement: https://trisquel.info/en/trisquel-70-lts-belenos
+
+  * Long Term Support (LTS) release
+
+
+Open Source Developers' Conference recap
+----------------------------------------
+
+* OSDC 2014 was held 4th - 7th November at Griffith University, Gold
+  Coast.
+
+* Videos of presentations are available at
+  https://www.youtube.com/channel/UCjmvm9iW5ERNaUcA5FlWbvg and
+  http://mirror.linux.org.au/osdc/osdc2014/
+
+* Five must-watch presentations for free software advocates (as
+  decided by Fraser and Clinton) are, in no particular order:
+
+  - *Code for America* by Lynn Fine (keynote)
+
+    - Abstract: http://2014.osdc.com.au/news/third-keynote-speaker-lynn-fine
+
+    - Video: https://www.youtube.com/watch?v=I7JCYmbiB7Q
+
+  - *The State of Full Disk Encryption* by Hugh Davenport
+
+    - Abstract: http://2014.osdc.com.au/presentation/1083-state-full-disk-encryption
+
+    - Video: https://www.youtube.com/watch?v=T4mp_ejER9k
+
+  - *At The Intersection* by Maia Sauren
+
+    - Abstract: http://2014.osdc.com.au/presentation/945-intersection
+
+    - Video: https://www.youtube.com/watch?v=AfMiCAKpB90
+
+  - *Embrace the Impact: Minimising your (insecure) online footprint*
+    by Peter Mosmans
+
+    - Abstract: http://2014.osdc.com.au/presentation/1250-embrace-impact-minimizing-your-insecure-online-footprint
+
+    - Video: https://www.youtube.com/watch?v=H5uWHw8coto
+
+  - *Making Education run like Open Source* by William Billingsley
+
+    - Abstract: http://2014.osdc.com.au/presentation/829-making-education-run-open-source
+
+    - Video: https://www.youtube.com/watch?v=SULsMJCNAYM
